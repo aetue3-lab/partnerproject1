@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+   background-color: #fff9d6;
+   color: #0b0b8b
+}
+
+.intro h2 {
+    color: black;
+    text-decoration: underline;
+}
+
+.HTML {
+    background-color: #d6f5d6;
+    color: #8a180d;
+}
+
+.HTML h2{
+    color: black;
+    text-decoration: underline;
+}
+
+.Css {
+    background-color: #ffe6f2;
+    color: #006400 
+}
+
+.Css h2 {
+    color: black;
+    text-decoration: underline;
+}
+
+.link {
+    
+    background-color: #d0e7ff
+}
+
+.link h2 {
+    color: black;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #e6e4e4;
+    margin-bottom: -20px;
+}
+
+    
